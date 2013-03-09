@@ -9,7 +9,7 @@ amount of match points. Every game yields constantly 16 match points. In case of
 a draw both teams gain 8 points. In case of a difference of 1 of game points
 the winner gets 9 points and the looser gets 7 points. In case of a difference of 2
 the distribution is 10-6 and so on until 15-1 is reached for a difference of 7 points.
-Every greater differends yields 15-1, too.
+Every greater difference yields 15-1, too.
 
 Each new round is drawn by the rules of the [Swiss System][swiss].
 
